@@ -1,7 +1,9 @@
 h1 {
     color: red;
 }
-
+p {
+    color: green;
+}
 .paragraph {
     border: 10px solid green;
     border-radius: 10px;
